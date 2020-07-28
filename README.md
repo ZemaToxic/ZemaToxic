@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning REST API and WebSockets :D 
 
 - 📫 How to reach me: 
- * [Email](mailto:crystal@zematoxic.com)
- * [Twitter](https://twitter.com/ZemaToxic)
- * [Website](https://www.zematoxic.com/)
+  * [Email](mailto:crystal@zematoxic.com)
+  * [Twitter](https://twitter.com/ZemaToxic)
+  * [Website](https://www.zematoxic.com/)
