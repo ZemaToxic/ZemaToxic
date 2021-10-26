@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Discord Bots](https://github.com/ZemaToxic/DiscordBots) a Personal Discord Chat bot for my own use.
 - 🌱 I’m currently learning REST API and WebSockets :D 
-- ⚡ Fun fact: I spent almost 3 days trying to fix an issue that was caused by a missing ;
-
+- ⚡ Fun fact: I have started to branch out and experiment with Hypervisors and Microsoft AD
 
 - 📫 How to reach me: 
   * [Email](mailto:crystal@zematoxic.com)
