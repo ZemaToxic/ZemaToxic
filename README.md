@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   * [Email](mailto:crystal@zematoxic.com)
   * [Twitter](https://twitter.com/ZemaToxic)
-  * [Website](https://www.zematoxic.com/)
+  * [Website](https://blog.zematoxic.com/)
