@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have started to branch out and experiment with Hypervisors and Microsoft AD
 
 - 📫 How to reach me: 
-  * [Email](mailto:crystal@zematoxic.com)
+  * [Email](mailto:contact@zematoxic.com)
   * [Twitter](https://twitter.com/ZemaToxic)
   * [Website](https://blog.zematoxic.com/)
